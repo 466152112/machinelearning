@@ -1,0 +1,14 @@
+Content_Based
+
+[+] General Parameters:
+Training data:	J:/workspacedata/weiboMention/LTR/source_v5.txt
+Train-Test split: 0.8
+Feature vector representation: Dense.
+Ranking method:	Content_Based
+Feature description file:	
+Train metric:	NDCG@4
+Test metric:	MAP
+metric2s:	10
+Feature normalization: No
+
+

@@ -1,0 +1,14 @@
+2015-01-22 19:09:56,432 [INFO] Content_Based
+2015-01-22 19:09:56,437 [INFO] 
+2015-01-22 19:09:56,437 [INFO] [+] General Parameters:
+2015-01-22 19:09:56,450 [INFO] Training data:	J:/workspacedata/weiboMention/LTR/source_v5.txt
+2015-01-22 19:09:56,451 [INFO] Train-Test split: 0.8
+2015-01-22 19:09:56,451 [INFO] Feature vector representation: Dense.
+2015-01-22 19:09:56,451 [INFO] Ranking method:	Content_Based
+2015-01-22 19:09:56,451 [INFO] Feature description file:	
+2015-01-22 19:09:56,451 [INFO] Train metric:	NDCG@4
+2015-01-22 19:09:56,452 [INFO] Test metric:	MAP
+2015-01-22 19:09:56,452 [INFO] metric2s:	10
+2015-01-22 19:09:56,452 [INFO] Feature normalization: No
+2015-01-22 19:09:56,452 [INFO] 
+2015-01-22 19:09:56,452 [INFO] 
